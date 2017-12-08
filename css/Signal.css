@@ -1,0 +1,46 @@
+
+
+fieldset {
+  margin-bottom: 5%;
+  padding: 2%;
+}
+
+label {
+  width: 10%;
+  display: inline-block;
+  vertical-align: ;
+  margin: 3%;
+  text-align :center;
+}
+ 
+em {
+  font-weight: bold;
+  font-style: normal;
+  color: #f00;
+}
+
+select {
+  width: 20%;
+}
+
+input, textarea {
+  width: 50%;
+}
+
+input[type=submit] {
+  width: 150px;
+  padding: 10px;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+.Re
+{
+	text-align : center;
+	border: 1px solid;
+
+}
+
+#Resume {
+	margin-bottom: 30%;
+}

@@ -1,0 +1,130 @@
+
+body {
+	margin: 0px;
+}
+
+#list1 {
+	margin-left: 3px;
+	font-size: 30px;
+}
+
+#list2 {
+	margin-left: 3px;
+	font-size: 30px;
+}
+
+#list3 {
+	margin-left: 3px;
+	font-size: 30px;
+}
+
+
+
+html {
+	background: linear-gradient(to right,#FFFFFF,#AFAFAF);
+	/*background-color: #FFFFF0;*/
+}
+
+
+#choix {
+	/*border-left: 1px solid #000000;*/
+	padding-top: 2px;
+	padding-bottom: 2px;
+	/*margin-left: 400px;*/
+}
+
+#bas {
+	/*border-top: 1px solid #000000;*/
+}
+
+
+
+.img_1{
+margin-left: 3px;
+}
+
+.img_2{
+margin-left: 3px;
+}
+
+.img_3{
+margin-left: 3px;
+}
+
+#choix1 {
+	background: #AFAFAF;
+	border: 1px solid #000000;
+	margin-right: 40%;
+	/*margin: 5px;
+	padding: 0;*/
+}
+
+#choix1 a {
+	height: 100%;
+    width: 100%;
+    display: inline-block;
+	text-decoration : none;
+	color : #000000 ;
+
+}
+
+#choix1 a:hover {
+	background: #FFFFFF;
+
+}
+
+
+#choix2 a {
+	height: 100%;
+    width: 100%;
+    display: inline-block;
+	text-decoration : none;
+	color : #000000 ;
+}
+
+
+#choix2 a:hover {
+	background: #FFFFFF;
+}
+
+#choix2 {
+	background: #AFAFAF;
+	border: 1px solid #000000;
+	margin: 5px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#choix3 {
+	background: #AFAFAF;
+	border: 1px solid #000000;
+	margin: 5px;
+	margin-left: 40%;
+}
+
+#choix3 a {
+	height: 100%;
+    width: 100%;
+    display: inline-block;
+	text-decoration : none;
+	color : #000000 ;
+}
+
+#choix3 a:hover {
+	background: #FFFFFF;
+}
+
+.footer {
+	text-align: center;
+	border-top: 1px solid #000000;
+}
+
+.img_right{
+	float:right;
+}
+/*
+body {
+	width: 800px;
+	background: #FF9500;
+}
+*/

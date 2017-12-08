@@ -1,0 +1,94 @@
+#titre {
+    padding: 3px 0 0 0;
+    text-align: center;
+    background: linear-gradient(to bottom,#F0E68C,#FFFF00);
+    border-bottom: 1px dashed #000000;
+}
+
+#onglets li
+{
+    float : left;
+    height : 30px; /* à modifier suivant la taille de la police pour centrer le texte dans l'onglet */
+    background-color: #F3F474;
+    margin : 2px 4px 0 4px !important;  /* Pour les navigateurs autre que IE */
+    margin : 2px 4px 0 4px;  /* Pour IE  */
+    border : 1px solid #9EA0A1;
+}
+
+#onglets li.active
+{
+   /* border-bottom: 1px solid #fff;*/
+    background-color: #F3F474;
+
+}
+
+#onglets a
+{
+    display : block;
+    color : #666 ;
+    text-decoration : none;
+    padding : 4px;
+}
+
+#onglets a:hover
+{
+    background : #fff;
+}
+
+#menu
+{
+        border-bottom : 1px solid #9EA0A1;
+        padding-bottom : 34px;
+}
+
+#onglets
+{
+        position : absolute;
+        border : 1px solid transparent;
+        padding : 0;
+        font : bold 21px Batang, arial, serif;
+        list-style-type : none;
+        /*left : 50%;*/
+        margin-top : 0;
+        width : 1000px;
+       /* margin-left : -400px;*/
+}
+
+
+#erreur {
+    font-size: 150%;
+    margin-top: 0px;
+    top: 0;
+	height: 80%;
+	width: 100%;
+	background-size: 100% 100%;
+	background-color:white;
+    background-image: url("/img/FondEcran.png");
+    color:#000000;
+}
+
+#title {
+    font-size: 150%;
+	padding-top:2%;
+
+	
+	border-bottom-style:solid;
+	border-bottom-color:grey;
+	border-bottom-width:1px;
+}
+
+#title_404 {
+    font-size: 100%;
+	padding-top:2%;
+	color:#FF0000;
+	text-align: center;
+	border-bottom-style:solid;
+	border-bottom-color:grey;
+	border-bottom-width:1px;
+}
+
+img {
+	border-radius:0%;
+	width:20.83%;
+	height:11.8%;
+}
